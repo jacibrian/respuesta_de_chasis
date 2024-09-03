@@ -1,2 +1,1 @@
-Seguro hay muchos errores conceptuales además de errores en el código, creo que en varias situaciones mezclo peras con manzanas.
-Tuve problemas al trabajar con sympy (no le sé), lo que hizo numpy parece excelente (tampoco le sé).
+La respuesta del chasis de un móvil descrita por una ecuación diferencial, y analizando los datos que un mecanismo como este podría medir en la realidad mediante diagramas de Bode. 
